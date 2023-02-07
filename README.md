@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Daniel Bejar</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-bejar/"><img src="https://img.shields.io/badge/Daniel%20Bejar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/daniel-bejar/" target="_blank"><img src="https://img.shields.io/badge/Daniel%20Bejar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <p align="center"><img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b761146a8c95260fc59f091afd14bd1aa19787dead7c7&rid=giphy.gif&ct=g" width="700" height="500"  /></p>
